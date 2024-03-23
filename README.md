@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Gopinath!
 
-## Full-Stack Developer | Flutter Enthusiast | Game Dev Explorer
+## Full-Stack Developer | Flutter Enthusiast.
 
 Passionate about building things for the web, mobile, and gaming platforms. Currently fluttering through cross-platform app development and open to diving into exciting projects and collaborations.
 
