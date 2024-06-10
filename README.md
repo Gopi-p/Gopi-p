@@ -1,11 +1,12 @@
 # 👋 Hey, I'm Gopinath!
 
-## Full-Stack Developer | Flutter Enthusiast.
+## Full-Stack Developer | MEAN Stack & Flutter
 
 Passionate about building things for the web, mobile, and gaming platforms. Currently fluttering through cross-platform app development and open to diving into exciting projects and collaborations.
 
 ### What's Happening 🌟
 - 🚀 Deep diving into **Flutter** for awesome app experiences.
+- 🧪 Experimenting Angular SSR & SSG.
 - 👨‍💻 Looking for open source projects to contribute to.
 - 🕹 Experimenting with game development for fun and learning.
 
