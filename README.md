@@ -1,14 +1,14 @@
 # 👋 Hey, I'm Gopinath!
 
-## Full-Stack Developer | MEAN Stack & Flutter
+## Software Developer | MEAN Stack & Flutter
 
 Passionate about building things for the web, mobile, and gaming platforms. Currently fluttering through cross-platform app development and open to diving into exciting projects and collaborations.
 
 ### What's Happening 🌟
-- 🚀 Deep diving into **Flutter** for awesome app experiences.
 - 🧪 Experimenting Angular SSR & SSG.
+- ✨ Learning Nextjs.
+- 🚀 Deep diving into **Flutter** for awesome app experiences.
 - 👨‍💻 Looking for open source projects to contribute to.
-- 🕹 Experimenting with game development for fun and learning.
 
 ### Connect & Collaborate 🤝
 Interested in collaborating? Let's make something impactful together! Reach me at [p.gopinath.work@gmail.com](mailto:p.gopinath.work@gmail.com) or check out my portfolio: [Smartfolio](https://smartfolio.netlify.app/).
